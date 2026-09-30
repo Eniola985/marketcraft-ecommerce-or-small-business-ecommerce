@@ -1,0 +1,6 @@
+{
+  "name": "MarketCraft - Small Business E-Commerce Platform",
+  "description": "An all-in-one e-commerce management suite and high-converting storefront builder tailored for independent retailers, makers, and small businesses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
